@@ -16,6 +16,7 @@ public class HelpCommand {
         System.out.println(" 3.open");
         System.out.println(" 4.pick up");
         System.out.println(" 5.say");
+        System.out.println(" 6.stop");
         
     }
 }
